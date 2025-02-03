@@ -10,6 +10,16 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
+#Azure Data
+local.settings.json
+
+#VScode
+.vscode
+./.vscode
+./.vscode/*
+
+
+
 # Runtime data
 pids
 *.pid
